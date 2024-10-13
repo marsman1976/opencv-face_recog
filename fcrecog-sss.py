@@ -89,7 +89,7 @@ while True:
         
             
         
-    # Showing images with rectangles and faces and their names-Fremvisning av bildene
+    # Showing images with rectangles and faces and their names-Fremvisning av bildene med å sette rektangel-rundt
     cv2.putText(img,Text, (10, height - 10), 0, 0.4, (0, 255, 255))
     
     # lydfil lesing (Spilling av lydfila-playing)
